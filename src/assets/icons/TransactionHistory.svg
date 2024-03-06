@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Artboard_1);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #2d9fc3;
+        stroke: #2d9fc3;
+        stroke-width: 0.6px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Artboard_1">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" class="cls-1">
+    <g id="Decorative_icon" data-name="Decorative icon" transform="translate(3 3.025)">
+      <g id="Placement_Area" data-name="Placement Area" class="cls-2" transform="translate(0 -0.025)">
+        <rect class="cls-4" width="24" height="24"/>
+        <rect class="cls-5" x="0.3" y="0.3" width="23.4" height="23.4"/>
+      </g>
+      <g id="Icon" transform="translate(2 1.975)">
+        <g id="Canvas" class="cls-2">
+          <rect class="cls-4" width="20" height="20"/>
+          <rect class="cls-5" x="0.3" y="0.3" width="19.4" height="19.4"/>
+        </g>
+        <path id="Path_3997" data-name="Path 3997" class="cls-3" d="M9.581,3H8.527A.509.509,0,0,0,8,3.49V8.674a.473.473,0,0,0,.154.346l2.955,2.746a.556.556,0,0,0,.745,0l.7-.654a.466.466,0,0,0,0-.692L10.108,8.142V3.49A.509.509,0,0,0,9.581,3Z" transform="translate(0.742 1.068)"/>
+        <path id="Path_3998" data-name="Path 3998" class="cls-3" d="M9.764,1A8.642,8.642,0,0,0,3.719,3.456,7.135,7.135,0,0,0,1.544,7.521H.271A.271.271,0,0,0,0,7.792a.267.267,0,0,0,.08.19L2,10.174a.271.271,0,0,0,.343,0L4.26,7.983a.266.266,0,0,0,.08-.19.271.271,0,0,0-.271-.272H2.7A6.365,6.365,0,0,1,4.588,4.127a7.6,7.6,0,1,1,0,11.129.271.271,0,0,0-.375,0l-.384.384a.275.275,0,0,0,0,.389l0,0A8.687,8.687,0,1,0,9.764,1Z" transform="translate(0 0.08)"/>
+      </g>
+    </g>
+  </g>
+</svg>

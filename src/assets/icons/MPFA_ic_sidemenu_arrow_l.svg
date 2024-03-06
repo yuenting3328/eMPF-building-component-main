@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44"
+  viewBox="0 0 44 44">
+  <defs>
+    <filter id="Ellipse_164" x="0" y="0" width="44" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha" />
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feFlood flood-opacity="0.161" />
+      <feComposite operator="in" in2="blur" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+  </defs>
+  <g id="MPFA_ic_sidemenu_arrow_l" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Ellipse_164)">
+      <circle id="Ellipse_164-2" data-name="Ellipse 164" cx="13" cy="13" r="13" transform="translate(35 32) rotate(180)"
+        fill="props.color" />
+    </g>
+    <g id="Icon" transform="translate(27 27) rotate(180)">
+      <g id="Canvas" transform="translate(1 1)" fill="#2d9fc3" stroke="#6e6e6e" stroke-width="1" opacity="0">
+        <rect width="26" height="26" stroke="none" />
+        <rect x="0.5" y="0.5" width="25" height="25" fill="none" />
+      </g>
+      <path id="Path_3949" data-name="Path 3949"
+        d="M15,11.969a1.652,1.652,0,0,1-.435,1.127l-5.939,6.38a1.429,1.429,0,0,1-1.465.53,1.542,1.542,0,0,1-1.112-1.154,1.676,1.676,0,0,1,.441-1.592l.036-.039,4.888-5.251L6.526,6.716A1.687,1.687,0,0,1,6.56,4.533a1.414,1.414,0,0,1,2.029-.112l.036.039,5.939,6.38A1.652,1.652,0,0,1,15,11.969Z"
+        transform="translate(4.001 1.956)" fill="props.color" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.732" height="62.732" viewBox="0 0 62.732 62.732">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #2d9fc3;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        filter: url(#Path_3985);
+      }
+    </style>
+    <filter id="Path_3985" x="0" y="0" width="62.732" height="62.732" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_364_34" data-name="Component 364 – 34" transform="translate(7.5 5.5)">
+    <g id="Group_1536" data-name="Group 1536">
+      <g id="Group_669" data-name="Group 669" transform="translate(0 0)">
+        <g id="Group_502" data-name="Group 502">
+          <g id="Group_534" data-name="Group 534">
+            <g class="cls-3" transform="matrix(1, 0, 0, 1, -7.5, -5.5)">
+              <path id="Path_3985-2" data-name="Path 3985" class="cls-1" d="M277.86,547.409a23.866,23.866,0,1,0,23.866,23.866A23.893,23.893,0,0,0,277.86,547.409Z" transform="translate(-246.49 -541.91)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1543" data-name="Group 1543" transform="translate(4.992 7.453)">
+      <path id="Path_4323" data-name="Path 4323" class="cls-2" d="M54.385,140h2.462l-4.923,7.59L47,140h2.462" transform="translate(-47 -123.588)"/>
+      <path id="Path_4324" data-name="Path 4324" class="cls-2" d="M50,136.412a16.412,16.412,0,0,1,28.13-11.49" transform="translate(-47.538 -120)"/>
+      <path id="Path_4325" data-name="Path 4325" class="cls-2" d="M56,137.488a11.489,11.489,0,0,1,20.271-7.407" transform="translate(-48.615 -121.077)"/>
+      <path id="Path_4326" data-name="Path 4326" class="cls-2" d="M83.462,138.34H81l4.923-7.59,4.923,7.59H88.385" transform="translate(-53.1 -121.929)"/>
+      <path id="Path_4327" data-name="Path 4327" class="cls-2" d="M83.715,140a16.412,16.412,0,0,1-28.747,10.826" transform="translate(-48.43 -123.588)"/>
+      <path id="Path_4328" data-name="Path 4328" class="cls-2" d="M79.52,140a11.488,11.488,0,0,1-20.487,7.141" transform="translate(-49.159 -123.588)"/>
+      <path id="Path_4329" data-name="Path 4329" class="cls-2" d="M66,139.282l2.462,2.462L74.206,136" transform="translate(-50.409 -122.871)"/>
+    </g>
+  </g>
+</svg>

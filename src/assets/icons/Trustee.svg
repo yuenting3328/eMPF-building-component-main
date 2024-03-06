@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Artboard_1);
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-3 {
+        fill: #2d9fc3;
+      }
+    </style>
+    <clipPath id="clip-Artboard_1">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" class="cls-1">
+    <g id="outline-account_balance-24px" transform="translate(3 3)">
+      <g id="Bounding_Boxes">
+        <path id="Path_2254" data-name="Path 2254" class="cls-2" d="M0,0H24V24H0Z"/>
+      </g>
+      <g id="Outline" transform="translate(3.768 2.486)">
+        <g id="Group_26" data-name="Group 26">
+          <path id="Path_2255" data-name="Path 2255" class="cls-3" d="M6.341,10H4.5v6.443H6.341Z" transform="translate(-2.199 -1.477)"/>
+          <path id="Path_2256" data-name="Path 2256" class="cls-3" d="M12.341,10H10.5v6.443h1.841Z" transform="translate(-3.201 -1.477)"/>
+          <path id="Path_2257" data-name="Path 2257" class="cls-3" d="M18.439,19H2v1.841H18.439Z" transform="translate(-2 -2.088)"/>
+          <path id="Path_2258" data-name="Path 2258" class="cls-3" d="M18.341,10H16.5v6.443h1.841Z" transform="translate(-4.202 -1.477)"/>
+          <path id="Path_2259" data-name="Path 2259" class="cls-3" d="M10.22,3.08,14.728,5.6H5.712L10.22,3.08m0-2.08L2,5.6V7.443H18.439V5.6L10.22,1Z" transform="translate(-2 -1)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

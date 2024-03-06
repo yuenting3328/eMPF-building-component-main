@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="214" height="54" viewBox="0 0 214 54">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Artboard_1);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 26px;
+        font-family: HelveticaNeue-BoldItalic, Helvetica Neue;
+        font-weight: 700;
+        font-style: italic;
+      }
+
+      .cls-3 {
+        font-size: 12px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+        letter-spacing: 0.008em;
+      }
+    </style>
+    <clipPath id="clip-Artboard_1">
+      <rect width="214" height="54"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" class="cls-1">
+    <g id="Group_1566" data-name="Group 1566">
+      <text id="eMPF" class="cls-2" transform="translate(17 38)"><tspan x="0" y="0">eMPF</tspan></text>
+      <text id="Heading" class="cls-3" transform="translate(95 27)"><tspan x="0" y="0">ADMINISTRATION</tspan><tspan x="0" y="12">PORTAL</tspan></text>
+    </g>
+  </g>
+</svg>

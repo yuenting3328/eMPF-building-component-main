@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" fill="props.color" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Artboard_1);
+      }
+
+      .cls-6 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-5 {
+        fill: props.color ;
+      }
+    </style>
+    <clipPath id="clip-Artboard_1">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" class="cls-1">
+    <g id="outline-people-24px" transform="translate(3 1)">
+      <g id="Bounding_Boxes" transform="translate(0 2)">
+        <path id="Path_3483" data-name="Path 3483" class="cls-6" d="M0,0H24V24H0Z"/>
+      </g>
+      <g id="Outline">
+        <g id="Group_388" data-name="Group 388">
+          <path id="Path_3484" data-name="Path 3484" class="cls-5" d="M9,13.75c-2.34,0-7,1.17-7,3.5V19H16V17.25C16,14.92,11.34,13.75,9,13.75ZM4.34,17A9.642,9.642,0,0,1,9,15.75,9.642,9.642,0,0,1,13.66,17Z"/>
+          <path id="Path_3485" data-name="Path 3485" class="cls-5" d="M9,12A3.5,3.5,0,1,0,5.5,8.5,3.5,3.5,0,0,0,9,12ZM9,7A1.5,1.5,0,1,1,7.5,8.5,1.5,1.5,0,0,1,9,7Z"/>
+          <path id="Path_3486" data-name="Path 3486" class="cls-5" d="M16.04,13.81A4.193,4.193,0,0,1,18,17.25V19h4V17.25C22,15.23,18.5,14.08,16.04,13.81Z"/>
+          <path id="Path_3487" data-name="Path 3487" class="cls-5" d="M15,12a3.5,3.5,0,0,0,0-7,3.446,3.446,0,0,0-1.5.35,5.461,5.461,0,0,1,0,6.3A3.446,3.446,0,0,0,15,12Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
